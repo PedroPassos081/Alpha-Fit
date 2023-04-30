@@ -1,0 +1,57 @@
+.section-aceleracao-resultados{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.banner-card-aceleracao{
+    display: flex;
+    gap: 25px;
+}
+
+.card-aceleracao{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow:0px 0px 5px rgb(168, 168, 168);
+    border-radius: 35px;
+    padding: 15px 15px ;
+}
+.card-aceleracao:hover{
+    box-shadow: 0px 0px 15px #ff6600;
+}
+
+
+.info-aceleracao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid gray;
+}
+.valores-aceleracao{
+    display: flex;
+    padding: 15px 0 0;
+    align-items: center;
+    justify-content: center;
+
+}
+.cifrao{
+    font-family: "Varela round";
+    margin-top: 15px;
+    margin-right: 2px;
+}
+
+.valor-aceleracao{
+    font-family: "figtree";
+    font-size: 37px;
+}
+
+.valor-mes{
+    font-family:  "Varela round";
+    margin-bottom: 15px;
+}

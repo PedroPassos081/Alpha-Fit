@@ -1,0 +1,79 @@
+.subtitle{
+    font-family: "Varela round";
+}
+
+.subtitle.-redirecionamento{
+    color: grey;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.subtitle.-card{
+    color: #575757; 
+    text-align: center;
+    margin: 5px ;
+    font-size: 15px;
+    margin-top: 8px;
+    padding-bottom: 5px;
+}
+
+.subtitle.-card-exclusivo{
+    color: #575757; 
+    text-align: center;
+    margin: 5px ;
+    font-size: 15px;
+    margin-top: 8px;
+    padding-bottom: 5px;
+    background-color: #ff6600;
+}
+
+.subtitle.-info-card{
+    margin-top:2px;
+    margin-bottom: 2px;
+    font-size: 15px;
+}
+
+.subtitle.-saiba-mais{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color:#000;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.subtitle.-aceleracao{
+    margin: 5px 0;
+}
+.subtitle.-aceleracao-text{
+    color: #575757;
+    display: flex;
+    height: 60px;
+    font-size: 14px;
+    align-items: center;
+    justify-content: center;
+    margin: 8px 0;
+    padding: 0;
+    flex-wrap: wrap;
+    width: 230px;
+    text-align: center;
+    align-content: flex-start;
+
+}
+
+.subtitle.-aceleracao-valor{
+    font-size: 10px;
+    margin: 3px 0 15px;
+    color: #575757;
+}
+.subtitle.-topico{
+    font-weight: bold;
+    font-family: "figtree";
+    font-size: 28px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    text-align: center;
+}
+
+.subtitle.-info-topico{
+    text-align: center;
+}

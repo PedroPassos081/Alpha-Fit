@@ -1,0 +1,21 @@
+@import url("./body.css");
+@import url("./tabel-main.css");
+@import url("./footer-main.css");
+@import url("./header-main.css");
+@import url("./section-aceleracao-resultados.css");
+@import url("./section-alpha-app.css");
+@import url("./section-exclusivos.css");
+@import url("./section-experiencias.css");
+@import url("./section-receba-emails.css");
+@import url("./section-valores.css");
+@import url("./section-main.css");
+
+@import url("./components/banner-img.css");
+@import url("./components/button-startnow.css");
+@import url("./components/card-exclusivos.css");
+@import url("./components/card-experiencias.css");
+@import url("./components/header-action.css");
+@import url("./components/image-with-button.css");
+@import url("./components/span-main.css");
+@import url("./components/subtitle-main.css");
+@import url("./components/title-main.css");
