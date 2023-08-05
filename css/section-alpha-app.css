@@ -1,0 +1,38 @@
+.section-alpha-app{
+    margin-top: 60px;
+    width: 100%;
+    background-color: #fcf0cb;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    padding: 60px 0px 30px;
+    justify-content: space-around;
+}
+
+.banner-alpha-app{
+    justify-content: center;
+    display: flex;
+    justify-content:space-between;
+}
+
+.images-app{
+    display: flex;
+    gap: 3%;
+}
+
+.lojas-app{
+    display: flex;
+    flex-direction: column;
+}
+
+.image-app-phone{
+    display: flex;
+    align-items: flex-end;
+    padding: 0 48px;
+    background-color: #ff6600;
+    border-radius: 16px 16px 16px 16px ;
+}
+
+.image-app-phone img {
+    margin-top: -64px;
+}
